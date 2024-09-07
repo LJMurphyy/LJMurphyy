@@ -3,7 +3,8 @@ Hi! My name is Laurel and I am a computer science student.
 
 #### Interests
 I am really excited to learn about quantum computing, machine learning, and machine vision.<br /> 
-With my current focus on deep diving into Linear Algebra and PyTorch.
+With my current focus on deep diving into Linear Algebra and PyTorch. <br />
+I would love to collaborate so don't hesitate to use the contact information below.
 
 
 #### Contact
