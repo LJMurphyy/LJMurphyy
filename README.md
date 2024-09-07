@@ -1,12 +1,11 @@
 # Laurel Murphy
 Hi! My name is Laurel and I am a computer science student.
 
-#### Interests
+#### About me
+I was a pro gamer for over 15 years and recently started into learning computer science. <br />
 I am really excited to learn about quantum computing, machine learning, and machine vision.<br /> 
 With my current focus on deep diving into Linear Algebra and PyTorch. <br />
-I would love to collaborate so don't hesitate to use the contact information below.
-
-
+I would love to do collaborations so do not hesitate to contact me below.
 #### Contact
 - [Email](mailto:laureljasper@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jasper-murphy/)
