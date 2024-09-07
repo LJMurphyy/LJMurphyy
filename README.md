@@ -2,8 +2,9 @@
 Hi! My name is Laurel and I am a computer science student.
 
 #### Interests
-I am really excited to learn about quantum computing, machine learning, and machine vision. 
+I am really excited to learn about quantum computing, machine learning, and machine vision.\ 
 With my current focus on deep diving into Linear Algebra and PyTorch.
+
 
 #### Contact
 - [Email](mailto:laureljasper@gmail.com)
