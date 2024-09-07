@@ -1,8 +1,11 @@
 # Laurel Murphy
 Hi! My name is Laurel and I am a computer science student.
 
+#### Currently Learning
+PyTorch, GoDot, mathematics, and I am really interested in Machine Vision.
+
 #### Contact
-- Email
+- [Email](mailto:laureljasper@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jasper-murphy/)
 
 
