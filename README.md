@@ -3,7 +3,7 @@ Hi! My name is Laurel and I am a computer science student.
 
 #### Contact
 [LinkedIn](https://www.linkedin.com/in/jasper-murphy/)
-[Email](laureljasper@gmail.com)
+hello
 
 - 👋 Hi, I’m @LJMurphyy
 - 👀 I’m interested in ...
