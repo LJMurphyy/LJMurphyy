@@ -1,5 +1,5 @@
 # Laurel Murphy
-Hi! My name is Laurel, I was previously a pro gramer, now a student learning computer science and physics.
+Hi! My name is Laurel, I was previously a pro gramer, now a student learning computer science.
 
 #### Interests
 I am really excited to learn about quantum computing, machine learning, and computer vision.<br />
