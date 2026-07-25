@@ -1,5 +1,5 @@
 # Jasper Murphy
-Hi! My name is Laurel, I was previously a pro gramer, now a student learning computer science.
+Hi! My name is Jasper, I was previously a pro gramer, now a student learning computer science.
 
 #### Interests
 I am really excited to learn about game devolopment, quantum computing, machine learning, and computer vision.<br />
