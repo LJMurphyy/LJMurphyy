@@ -1,4 +1,4 @@
-# Laurel Murphy
+# Jasper Murphy
 Hi! My name is Laurel, I was previously a pro gramer, now a student learning computer science.
 
 #### Interests
